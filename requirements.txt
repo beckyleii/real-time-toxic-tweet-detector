@@ -1,0 +1,16 @@
+dash
+matplotlib
+numpy
+pandas
+plotly
+pymongo
+requests
+ipywidgets
+notebook
+expiringdict
+sklearn
+tweepy
+seaborn
+textblob
+geopy
+nltk
